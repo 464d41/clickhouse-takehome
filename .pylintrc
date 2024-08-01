@@ -1,0 +1,4 @@
+[FORMAT]
+disable=line-too-long,
+        invalid-name,
+        too-few-public-methods
